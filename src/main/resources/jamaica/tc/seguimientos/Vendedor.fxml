@@ -8,7 +8,7 @@
 <?import javafx.scene.control.Separator?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="243.0" prefWidth="413.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jamaica.tc.seguimientos.Septiembre23.controller.CafeteriaController">
+<AnchorPane prefHeight="243.0" prefWidth="413.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jamaica.tc.seguimientos.Octubre02.viewcontroller.VendedorViewController">
    <children>
       <CheckBox fx:id="lechebox" layoutX="52.0" layoutY="37.0" mnemonicParsing="false" text="Leche" />
       <CheckBox fx:id="azucarbox" layoutX="52.0" layoutY="66.0" mnemonicParsing="false" text="Azucar" />

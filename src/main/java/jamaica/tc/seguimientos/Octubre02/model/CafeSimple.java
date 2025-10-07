@@ -1,4 +1,4 @@
-package jamaica.tc.seguimientos.Septiembre23.model;
+package jamaica.tc.seguimientos.Octubre02.model;
 
 
 import jamaica.tc.seguimientos.Septiembre23.services.Cafe;
@@ -12,6 +12,6 @@ public class CafeSimple implements Cafe {
 
     @Override
     public double getCosto() {
-        return 2000;
+        return 2000; // precio base
     }
 }

@@ -51,8 +51,6 @@ public class ReproductorController {
             } else {
                 extensionSeleccionada = "";
             }
-
-            // Mostrar en el TextField el nombre + extensión
             archivoField.setText(nombreArchivoSeleccionado);
         }
     }

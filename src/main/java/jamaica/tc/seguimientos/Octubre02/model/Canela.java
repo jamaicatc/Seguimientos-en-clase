@@ -1,4 +1,4 @@
-package jamaica.tc.seguimientos.Septiembre23.model;
+package jamaica.tc.seguimientos.Octubre02.model;
 
 
 import jamaica.tc.seguimientos.Septiembre23.services.Cafe;
@@ -7,6 +7,8 @@ public class Canela extends CafeDecorador {
     public Canela(Cafe cafe) {
         super(cafe);
     }
+
+
 
     @Override
     public String getDescripcion() {
